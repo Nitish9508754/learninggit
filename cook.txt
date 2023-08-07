@@ -103,20 +103,4 @@ Shellfish-Free
 href = sesame-free
 Sesame-Free
 
-href = red-meat-free
-Red-Meat-Free
 
-href = pork-free
-Pork-Free
-
-href = pecatarian
-Pescatarian
-
-href = peanut-free
-Peanut-Free
-
-href = paleo
-Paleo
-
-href = No-oil-added
-No oil added
